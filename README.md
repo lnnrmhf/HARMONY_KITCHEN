@@ -1,2 +1,2 @@
-# HARMONY_KITCHEN
-Cozy retro mini game 
+# HARMONY KITCHEN
+Cozy retro mini-game 
