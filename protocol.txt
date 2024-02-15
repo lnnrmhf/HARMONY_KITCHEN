@@ -1,0 +1,20 @@
+HARMONY KITCHEN PROTOCOL
+
+05.12.23: rough sketch of concept, reading through pygame documentation & watching tutorials (4 hours)
+06.12.23: installing pygame, open window, close window (1 hour)
+08.12.23: create more detailed concept of project (1 hour)
+09.12.23: create title screen (2 hours)
+18.12.23: create characters & backgrounds (1 hour)
+22.12.23: get to main screen, beginning info dialogue box (5 hours)
+23.12.23: move around in kitchen (2 hours) 
+25.12.23: make boarders so character can't move out of screen (1.5 hours) 
+26.12.23: make recipe book (4 hours) 
+27.12.23: make pixel art (2 hours)
+28.12.23: make mini game recipe 1, up until adding everything to bowl (7 hours) 
+29.12.23: finish mini game recipe 1 (2.5 hours) 
+02.02.24: mini game recipe 2 & most of mini game recipe 3 (6.5 hours)
+03.01.24: finish game & make code prettier (5.5 hours)
+04.01.24: make code prettier, add future ideas, add cat (5 hours)
+05.01.24: add music and sound effects (1 hour)
+
+
